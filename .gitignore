@@ -5,3 +5,5 @@ models/
 .env
 
 __pycache__/
+notebooks/
+runs
